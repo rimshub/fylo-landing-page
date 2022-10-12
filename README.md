@@ -22,6 +22,11 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Links
+
+- Solution URL: [Code](https://github.com/rimshub/fylo-landing-page)
+- Live Site URL: [Fylo Landing Page](https://tender-albattani-4f8ca9.netlify.app/)
+
 ### Screenshot
 
 - Desktop and Mobile View 
@@ -29,11 +34,6 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 ![](./images/desktop_view.png)
 
 ![](./images/mobile_view.png)
-
-### Links
-
-- Solution URL: [Code](https://github.com/rimshub/fylo-landing-page)
-- Live Site URL: [Fylo Landing Page](https://tender-albattani-4f8ca9.netlify.app/)
 
 ## My process
 
